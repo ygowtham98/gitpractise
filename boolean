@@ -1,0 +1,11 @@
+a=b+c
+add;
+
+a=b-c
+sub;
+
+a=b*c
+mul;
+
+a=b/c
+div;
