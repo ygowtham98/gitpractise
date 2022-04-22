@@ -6,7 +6,6 @@ import (
 		"context"
 			"encoding/json"
 				"fmt"
-					"log"
 						"strconv"
 							"time"
 
@@ -27,7 +26,6 @@ import (
 																		if err != nil {
 																						return err
 																								}
-
 																										err = handleInvoke(invoke, function)
 																												if err != nil {
 																																return err
